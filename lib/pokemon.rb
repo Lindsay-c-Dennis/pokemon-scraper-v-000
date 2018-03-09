@@ -21,6 +21,6 @@ class Pokemon
   end
   
   def self.find(id, db)
-     
+    pokemon_info =  
   end
 end
