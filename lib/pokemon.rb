@@ -10,7 +10,6 @@ class Pokemon
     @type = type
     @nil = hp
     @db = db
-    @@all << self
   end
   
   def self.save(name, type, db) 
